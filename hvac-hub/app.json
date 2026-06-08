@@ -12,7 +12,7 @@
     "githubUrl": "https://github.com/your-org/hvac-hub",
     "ios": {
       "icon": "./assets/images/icon.png",
-      "bundleIdentifier": "com.yourcompany.hvachub",
+      "bundleIdentifier": "com.hvachub.demo",
       "supportsTablet": true,
       "infoPlist": {
         "NSCameraUsageDescription": "Allow HVAC Hub to access your camera for scanning QR codes on equipment labels and serial plates.",
@@ -26,7 +26,7 @@
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
-      "package": "com.yourcompany.hvachub",
+      "package": "com.hvachub.demo",
       "permissions": [
         "android.permission.CAMERA",
         "android.permission.READ_EXTERNAL_STORAGE",
